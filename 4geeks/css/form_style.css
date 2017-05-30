@@ -1,0 +1,15 @@
+.formulario{
+	border:1px solid black;
+	padding: 20px;
+}
+
+.formulario h2{
+	font-size: 1.5em;
+	color: #505050;
+	text-align: center;
+}
+
+.txt-alert{
+	font-weight: bolder;
+	text-align: center;
+}
